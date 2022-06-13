@@ -1,2 +1,2 @@
-# C-C-
+# Cplusplus
 Sample
